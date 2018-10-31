@@ -32,5 +32,8 @@ The table is named "All Fragmentation Spectra and Mass2Motifs matching details".
 ## 5. Import the new table into Cytoscape
 Import the output table ouputted by the script in Cytoscape. 
 
-**Important:** The molecular networks has be to generated from the same .MGF file as the one used for the feature based molecular networking job.
+**Important:** The molecular networks have be to generated from the same .MGF file as the one used for the feature based molecular networking job.
 [https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking/]()
+
+Authors: 
+Zheng Zhang with Louis Felix Nothias, University of California San Diego
