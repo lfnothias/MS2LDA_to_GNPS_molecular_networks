@@ -24,7 +24,7 @@ The table is named "All Fragmentation Spectra and Mass2Motifs matching details".
 ## 4. Convert the MS2LDA with the python script
 **Run the script as follow:**
 
-`python MS2LDA_to_GNPS_molecularnetworks.py inputfilename.csv`
+`python MS2LDA_to_GNPS_molecular_networks_v0.4.py inputfilename.csv`
 
 **Requirements**:
 - Python 3.7 and the following libraries available: *sys, os, argparse, csv, pandas, math*
