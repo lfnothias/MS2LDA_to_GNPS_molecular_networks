@@ -4,16 +4,16 @@
 See the documentation here
 [https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking/]()
 
-Citation: Wang et al. Nature Biotechnology volume 34, pages 828–837 (2016) [https://www.nature.com/articles/nbt.3597]()
+Citation: Wang et al. *Nature Biotechnology*, 34, 828–837 (2016) [https://www.nature.com/articles/nbt.3597]()
 
 ## 2. Run MS2LDA
 **See the documentation here:**
 [http://ms2lda.org/user_guide/](http://ms2lda.org/user_guide/)
 
 **Citations:**
-van der Hooft et al. Anal. Chem., 2017, 89 (14), pp 7569–7577, [https://pubs.acs.org/doi/abs/10.1021/acs.analchem.7b01391]()
+van der Hooft et al. *Anal. Chem.*, 2017, 89 (14), pp 7569–7577, [https://pubs.acs.org/doi/abs/10.1021/acs.analchem.7b01391]()
 
-Wandy et al. Bioinformatics, 34, 2, 2018, 317–318, [https://pubs.acs.org/doi/abs/10.1021/acs.analchem.7b01391]()
+Wandy et al. *Bioinformatics*, 34, 2, 2018, 317–318, [https://pubs.acs.org/doi/abs/10.1021/acs.analchem.7b01391]()
 
 ## 3. Download the MS2LDA CSV table
 Download the table MS2LDA CSV table from ([http://ms2lda.org]()) 
