@@ -1,4 +1,4 @@
-# A simple python script to map MS2LDA to GNPS molecular networks
+# A python script to map MS2LDA to GNPS molecular networks
 
 ## 1. Run the feature based molecular networking workflow
 See the documentation here
@@ -35,5 +35,5 @@ Import the output table ouputted by the script in Cytoscape.
 **Important:** The molecular networks have be to generated from the same .MGF file as the one used for the feature based molecular networking job.
 [https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking/]()
 
-Authors: 
+## Authors
 Zheng Zhang with Louis Felix Nothias, University of California San Diego
