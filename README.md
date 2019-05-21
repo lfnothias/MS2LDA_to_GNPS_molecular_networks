@@ -1,5 +1,10 @@
 # A python script to map MS2LDA to GNPS molecular networks
 
+**201905 - UPDATE NOTE: While the script presented here is still functional, there is an easier way to run MS2LDA and GNPS.**
+
+See the documentation here:
+[https://ccms-ucsd.github.io/GNPSDocumentation/ms2lda/](https://ccms-ucsd.github.io/GNPSDocumentation/ms2lda/).
+
 ## 1. Run the feature based molecular networking workflow
 See the documentation here
 [https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking/]()
